@@ -34,4 +34,6 @@
 .vscode
 .idea
 .cache
-build/
+build*/
+cmake-build-*/
+*.user
